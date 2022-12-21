@@ -4,7 +4,8 @@
 - 📫 How to reach me 
 -    github profile : Probinpaswan
 -    E-mail id : paswqnprobin@gmail.com
--    instagram : @its_probin...
+-    instagram : @its_probin
+-    Linkedin profile : probin kumar paswan
 
 <!---
 Probinpaswan/Probinpaswan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
