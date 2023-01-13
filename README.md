@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c programming...
 - 📫 How to reach me 
 -    github profile : Probinpaswan
--    E-mail id : probinkumarpaswan@gmail.com
+-    E-mail id : paswqnprobin@gmail.com
 -    instagram : @its_probin
 -    Linkedin profile : probin kumar paswan
 
